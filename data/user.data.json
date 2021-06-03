@@ -1,0 +1,16 @@
+[
+    {
+        "login": "admin@gmail.com",
+        "password":"admin@1",
+        "role": "ROLE_ADMIN"
+    },
+
+    {
+        "login": "joueur@gmail.com",
+        "password":"admin@1",
+        "role": "ROLE_JOUEUR"
+    }
+
+    
+
+]
